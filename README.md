@@ -6,4 +6,4 @@ customer side (behavior). The staff creates the skiable area by grooming runs, s
 the hotels.
 
 The customer stays in the hotels, follows the groomed runs, uses the ski lifts, and is then able to ski themselves. 
- ![Here it is!](http://i.imgur.com/HXn8Ug5.jpg)
+ ![Here it is!](IMG.2122.JPG)
