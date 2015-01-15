@@ -1,4 +1,6 @@
 
+//resort object 
+
 function Resort(location, minCustomer, maxCustomer, ticketPrice) {
 	this.location = location;
 	this.minCustomer = minCustomer;
